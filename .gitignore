@@ -6,6 +6,23 @@ __pycache__/
 # C extensions
 *.so
 
+# Files
+crypto_clustering_starter_code.ipynb
+Elbow_curve_use.ipynb
+Elbow_curves.ipynb
+Hierarchical_Clustering.ipynb
+iris.ipynb
+Kmean_iris.ipynb
+PCA.ipynb
+shopping.ipynb
+trial_error.ipynb
+crypto_data.csv
+iris.csv
+new_iris_data.csv
+new_iris_data_2.csv
+shopping_data.csv
+shopping_data_cleaned.csv
+
 # Distribution / packaging
 .Python
 build/
